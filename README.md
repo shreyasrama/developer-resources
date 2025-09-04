@@ -5,10 +5,9 @@ So I don't lose links and also don't end up with 200 tabs open
 > [!IMPORTANT]
 > If it's listed here, that doesn't necessarily mean I endorse it fully.
 
-## Frontend
-
 ### Architecture
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react)
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - useful starting point for basic sites
 
 ### Assets
 - [Haikei](https://haikei.app/) - generate SVG design assets
@@ -18,6 +17,9 @@ So I don't lose links and also don't end up with 200 tabs open
 
 ### Colours
 - [Coolors](https://coolors.co/) - generate colour palettes
+
+### Docs
+- [An Otter Wiki](https://github.com/redimp/otterwiki) - minimalistic wiki using Markdown with a straightforward installation
 
 ### Linting, formatting
 
