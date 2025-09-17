@@ -22,6 +22,10 @@ So I don't lose links and also don't end up with 200 tabs open
 - [Flexbox Froggy](https://flexboxfroggy.com/) - game to learn Flexbox
 - [Grid Garden](https://cssgridgarden.com/) - game to learn Grid
 
+### Design
+- [Landbook](https://land-book.com/) - website design inspiration
+- [One Page Love](https://onepagelove.com/) - 
+
 ### Docs
 - [An Otter Wiki](https://github.com/redimp/otterwiki) - minimalistic wiki using Markdown with a straightforward installation
 
