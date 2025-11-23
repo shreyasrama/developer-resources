@@ -25,6 +25,7 @@ So I don't lose links and also don't end up with 200 tabs open
 ### Design
 - [Landbook](https://land-book.com/) - website design inspiration
 - [One Page Love](https://onepagelove.com/) - website design inspiration for one page websites
+- [Toasts](https://primer.style/accessibility/toasts/) - don't use Toasts
 
 ### Docs
 - [An Otter Wiki](https://github.com/redimp/otterwiki) - minimalistic wiki using Markdown with a straightforward installation
