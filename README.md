@@ -17,6 +17,7 @@ So I don't lose links and also don't end up with 200 tabs open
 
 ### Colours
 - [Coolors](https://coolors.co/) - generate colour palettes
+- [Huemint](https://huemint.com/) - progressively generate colour palettes using mockups
 
 ### CSS
 - [Flexbox Froggy](https://flexboxfroggy.com/) - game to learn Flexbox
