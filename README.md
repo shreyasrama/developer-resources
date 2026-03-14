@@ -12,6 +12,7 @@ So I don't lose links and also don't end up with 200 tabs open
 ### Assets
 - [Haikei](https://haikei.app/) - generate SVG design assets
 - [Lucide](https://lucide.dev/) - 🐐
+- [Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms
 - [SVG Repo](https://www.svgrepo.com/) - open-licensed SVGs
 - [Unsplash](https://unsplash.com/) - free images
 
