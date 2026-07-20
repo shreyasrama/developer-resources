@@ -8,6 +8,7 @@ So I don't lose links and also don't end up with 200 tabs open
 ### Architecture
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - guide for architecting React applications
 - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - useful starting point for basic sites
+- [SimpleTimesheet Devlog](https://github.com/pancudaniel7/simpletimesheeet-devlog/tree/main) - some design decisions that I vibe with
 
 ### Assets
 - [Haikei](https://haikei.app/) - generate SVG design assets
