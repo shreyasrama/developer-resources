@@ -35,6 +35,9 @@ So I don't lose links and also don't end up with 200 tabs open
 
 ### Linting, formatting
 
+### Performance
+- [Frontend Performance Taxonomy](https://medium.com/@ethanhaller02/the-frontend-performance-taxonomy-decd58757b30) - paradigms for frontend perf
+
 ### UI / UX
 - [50 UI Design Tips](https://xcancel.com/AlmorTech/status/1547857531313070086) - X thread for general UI design
 - [Animata Design](https://animata.design/) - animated React components
