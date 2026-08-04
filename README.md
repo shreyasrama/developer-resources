@@ -41,6 +41,7 @@ So I don't lose links and also don't end up with 200 tabs open
 ### UI / UX
 - [50 UI Design Tips](https://xcancel.com/AlmorTech/status/1547857531313070086) - X thread for general UI design
 - [Animata Design](https://animata.design/) - animated React components
+- [Astryx](https://astryx.atmeta.com/) - Meta's open source design system
 - [Base UI](https://base-ui.com/) - unstyled UI components
 - [beUI](https://beui.dev/) - animated React components
 - [Mantine](https://mantine.dev/) - React component library
