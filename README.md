@@ -5,6 +5,9 @@ So I don't lose links and also don't end up with 200 tabs open
 > [!IMPORTANT]
 > If it's listed here, that doesn't necessarily mean I endorse it fully.
 
+### AI
+- [Modern Web Guidance Skills](https://github.com/GoogleChrome/modern-web-guidance/tree/main) - skills for agents to utilise modern web practices
+
 ### Architecture
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - guide for architecting React applications
 - [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - useful starting point for basic sites
@@ -16,6 +19,9 @@ So I don't lose links and also don't end up with 200 tabs open
 - [Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms
 - [SVG Repo](https://www.svgrepo.com/) - open-licensed SVGs
 - [Unsplash](https://unsplash.com/) - free images
+
+### Career
+- [System Design Interviewing](https://interviewing.io/guides/system-design-interview) - detailed guide on system design interviews
 
 ### Colours
 - [Coolors](https://coolors.co/) - generate colour palettes
