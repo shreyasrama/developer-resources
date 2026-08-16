@@ -28,6 +28,7 @@ So I don't lose links and also don't end up with 200 tabs open
 - [Huemint](https://huemint.com/) - progressively generate colour palettes using mockups
 
 ### CSS
+- [Aura Gradients](https://auragradients.vercel.app/) - ambient gradients built from layered blend modes
 - [Flexbox Froggy](https://flexboxfroggy.com/) - game to learn Flexbox
 - [Grid Garden](https://cssgridgarden.com/) - game to learn Grid
 
