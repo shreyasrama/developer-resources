@@ -6,8 +6,8 @@ So I don't lose links and also don't end up with 200 tabs open
 > If it's listed here, that doesn't necessarily mean I endorse it fully.
 
 ### AI
-- [Modern Web Guidance Skills](https://github.com/GoogleChrome/modern-web-guidance/tree/main) - skills for agents to utilise modern web practices
 - [Agentic Coding Playbook](https://github.com/syv-ai/agentic-coding-playbook/tree/main) - modules from first principles to enterprise
+- [Modern Web Guidance Skills](https://github.com/GoogleChrome/modern-web-guidance/tree/main) - skills for agents to utilise modern web practices
 
 ### Architecture
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - guide for architecting React applications
@@ -15,9 +15,9 @@ So I don't lose links and also don't end up with 200 tabs open
 - [SimpleTimesheet Devlog](https://github.com/pancudaniel7/simpletimesheeet-devlog/tree/main) - some design decisions that I vibe with
 
 ### Assets
+- [Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms
 - [Haikei](https://haikei.app/) - generate SVG design assets
 - [Lucide](https://lucide.dev/) - 🐐
-- [Favicon Generator](https://realfavicongenerator.net/) - generate favicons for all platforms
 - [SVG Repo](https://www.svgrepo.com/) - open-licensed SVGs
 - [Unsplash](https://unsplash.com/) - free images
 
@@ -41,8 +41,6 @@ So I don't lose links and also don't end up with 200 tabs open
 ### Docs
 - [An Otter Wiki](https://github.com/redimp/otterwiki) - minimalistic wiki using Markdown with a straightforward installation
 
-### Linting, formatting
-
 ### Performance
 - [Frontend Performance Taxonomy](https://medium.com/@ethanhaller02/the-frontend-performance-taxonomy-decd58757b30) - paradigms for frontend perf
 
@@ -54,3 +52,8 @@ So I don't lose links and also don't end up with 200 tabs open
 - [beUI](https://beui.dev/) - animated React components
 - [Mantine](https://mantine.dev/) - React component library
 - [Mishka Chelekom](https://mishka.tools/chelekom) - Phoenix component library
+
+### Utility
+- [GoQR](https://goqr.me/) - QR code generator
+- [Squoosh](https://squoosh.app/) - in-browser single image optimiser
+- [ToffeeShare](https://toffeeshare.com/) - peer-to-peer sharing over WebRTC
