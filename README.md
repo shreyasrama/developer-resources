@@ -8,6 +8,7 @@ So I don't lose links and also don't end up with 200 tabs open
 ### AI
 - [Agentic Coding Playbook](https://github.com/syv-ai/agentic-coding-playbook/tree/main) - modules from first principles to enterprise
 - [Modern Web Guidance Skills](https://github.com/GoogleChrome/modern-web-guidance/tree/main) - skills for agents to utilise modern web practices
+- [Agent QA](https://github.com/vostride/agent-qa) - natural-language web and mobile regression testing with persistent test memory and MCP and agent-skill integrations
 
 ### Architecture
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - guide for architecting React applications
